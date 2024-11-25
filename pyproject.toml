@@ -13,7 +13,7 @@ classifiers = [
 ]
 
 [tool.poetry.urls]
-repository = https://github.com/bolnitsa/python-project-49
+repository =  "https://github.com/bolnitsa/python-project-49"
 
 [tool.poetry.dependencies]
 python = "^3.10"
