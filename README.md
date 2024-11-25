@@ -4,3 +4,4 @@
 [Смотреть запись на asciinema (brain-even)](https://asciinema.org/a/9ZKVSCdXvjUqher7pcgnOHRZO)
 [Cмотреть запись на asciinema (brain-calc)](https://asciinema.org/a/WbzhFeqx4daPIwtqPvzJ4kU8j)
 [Cмотреть запись на asciinema (brain-gcd)](https://asciinema.org/a/9iPm6SFbwfzfPps02dPazVeBo)
+[Смотреть запись на asciinema (braib-progression)](https://asciinema.org/a/S5wW0dDDqggTCJBuTmgm7wd01)
