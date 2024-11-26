@@ -26,17 +26,17 @@ def main():
     questions = 3
     correct_a = 0
 
-        while correct_a < questions:
-            num1, operation, num2 = random_expression()
-            print("What is the result of the expression?")
-            print(f"Question: {num1} {operation} {num2}")
+    while correct_a < questions:
+        num1, operation, num2 = random_expression()
+        print("What is the result of the expression?")
+        print(f"Question: {num1} {operation} {num2}")
 
-            answer = input("Your answer: ")
+        answer = input("Your answer: ")
 
 
 
-            answer = int(answer)
-            correct_answer = result(num1, operation, num2)
+        answer = int(answer)
+        correct_answer = result(num1, operation, num2)
 
         if answer != correct_answer:
             print(f"{answer} is wrong answer ;(. Correct answer was '{correct_answer}'.")
