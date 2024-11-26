@@ -2,7 +2,7 @@ import random
 
 def is_prime(n):
 	if n <= 1:
-		return false
+		return False
 	for i in range(2, int(n**0.5) + 1):
 		if n % i == 0:
 			return False
@@ -19,7 +19,7 @@ def main():
 	while correct_a < questions:
 		print('Answer "yes" if given number is prime. Otherwise answer "no".')
 		number = random.randint(1, 100)
-		correct_answer = "yes" if is_prime(number) else "no"
+		correct_answer = "yes" if is_prime(n) else "no"
 		print(f'Question: {number}')
 		user_answer = input('Your answer: ')
 
