@@ -19,7 +19,7 @@ def main():
 	while correct_a < questions:
 		print('Answer "yes" if given number is prime. Otherwise answer "no".')
 		number = random.randint(1, 100)
-		correct_answer = "yes" if is_prime(n) else "no"
+		correct_answer = "yes" if is_prime(number) else "no"
 		print(f'Question: {number}')
 		user_answer = input('Your answer: ')
 
