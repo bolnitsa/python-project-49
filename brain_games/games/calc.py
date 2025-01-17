@@ -1,8 +1,10 @@
 import random
 
+
 GAME_RULES = 'What is the result of the expression?'
 MIN_NUM = 1
 MAX_NUM = 100
+
 
 def calculate(left_num, operator, right_num):
     if operator == '+':
@@ -13,6 +15,7 @@ def calculate(left_num, operator, right_num):
         return left_num * right_num
     else:
         raise ValueError("Unknown operator: {}".format(operator))
+
 
 def play():
     operators = ['+', '-', '*']

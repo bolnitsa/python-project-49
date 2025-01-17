@@ -27,4 +27,3 @@ def run(game_module):
         print('Correct!')
 
     print('Congratulations, {}!'.format(name))
-
