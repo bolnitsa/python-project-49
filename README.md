@@ -14,7 +14,11 @@
 ### 4. Asciinema records
 ### brain-even: Guess if random number is even 
 [![asciicast](https://asciinema.org/a/btKHRp3T8PlbYypvemF6zPtjO.png)](https://asciinema.org/a/btKHRp3T8PlbYypvemF6zPtjO)
-[Cмотреть запись на asciinema (brain-calc)](https://asciinema.org/a/WbzhFeqx4daPIwtqPvzJ4kU8j)
-[Cмотреть запись на asciinema (brain-gcd)](https://asciinema.org/a/9iPm6SFbwfzfPps02dPazVeBo)
-[Смотреть запись на asciinema (brain-progression)](https://asciinema.org/a/S5wW0dDDqggTCJBuTmgm7wd01)
-[Cмотреть запись на asciinema(brain-prime)](https://asciinema.org/a/FOErLUueilzGz5Ybm1I6N92gP)
+### brain-calc: Calculate the result of random expression
+[![asciicast](https://asciinema.org/a/EYI5c52Dt6P8IfBr6nwbC27gZ.png)](https://asciinema.org/a/EYI5c52Dt6P8IfBr6nwbC27gZ) 
+### brain-gcd: Calculate the greatest common divisor of two random numbers
+[![asciicast](https://asciinema.org/a/Dk59AwEWvfa8oi2y1ttSMu5Pk.png)](https://asciinema.org/a/Dk59AwEWvfa8oi2y1ttSMu5Pk)
+### brain-progression: Find the missing element in arithmetic progression
+[![asciicast](https://asciinema.org/a/191dp7zMD7bdxsPxqAXXhciW1.png)](https://asciinema.org/a/191dp7zMD7bdxsPxqAXXhciW1)
+### brain-prime: Guess if the random number is a prime
+[![asciicast](https://asciinema.org/a/GGHev0Cnf1dqh3rvEehvApfjC)](https://asciinema.org/a/GGHev0Cnf1dqh3rvEehvApfjC) 
