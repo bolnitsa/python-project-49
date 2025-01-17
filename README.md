@@ -5,8 +5,11 @@
 ### 1.The project includes 7 console games: brain-even, brain-calc, brain-gcd, brain-progression, brain-prime
 
 ### 2.To install use the following commands
+### 2.1
 ### make build
 ### make package-install
+### 2.2
+### git clone https://github.com/bolnitsa/python-project-49/
 
 
 ### 3. Launch the required game: brain-even "Parity check" / brain-calc "Calculator" / brain-gcd "Greatest common divisor" / brain-progressiob "Arithmetic progression" / brain-prime "Is it a prime number?"
