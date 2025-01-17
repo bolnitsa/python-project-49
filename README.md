@@ -12,7 +12,8 @@
 ### 3. Launch the required game: brain-even "Parity check" / brain-calc "Calculator" / brain-gcd "Greatest common divisor" / brain-progressiob "Arithmetic progression" / brain-prime "Is it a prime number?"
 
 ### 4. Asciinema records
-[(brain-even](https://asciinema.org/a/9ZKVSCdXvjUqher7pcgnOHRZO)
+### brain-even: Guess if random number is even 
+[![asciicast](https://asciinema.org/a/btKHRp3T8PlbYypvemF6zPtjO.png)](https://asciinema.org/a/btKHRp3T8PlbYypvemF6zPtjO)
 [Cмотреть запись на asciinema (brain-calc)](https://asciinema.org/a/WbzhFeqx4daPIwtqPvzJ4kU8j)
 [Cмотреть запись на asciinema (brain-gcd)](https://asciinema.org/a/9iPm6SFbwfzfPps02dPazVeBo)
 [Смотреть запись на asciinema (brain-progression)](https://asciinema.org/a/S5wW0dDDqggTCJBuTmgm7wd01)
